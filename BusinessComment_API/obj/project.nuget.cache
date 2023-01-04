@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "r0Js0rFDqy5cND4wIFxpmMAjKTzMpafUwljgZgEOIn1e3BEobarW+w5TiVH7Fh3Qt+g8hO+2T0SPDgrYOPX2TA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tvlha\\source\\repos\\BusinessComment_API\\BusinessComment_API\\BusinessComment_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tvlha\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\tvlha\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tvlha\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\tvlha\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\tvlha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\tvlha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
